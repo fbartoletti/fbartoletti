@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">🔧 Skills & Tools<br><br>💻 Programming: Experience with website development, C programming, and Shell scripting.<br>🛡️ Cybersecurity: Actively building skills on platforms like Hack The Box to explore advanced concepts.<br>🎨 Creative Tools: Proficient in basic video and photo editing with Adobe software.<br>📈 Marketing & eCommerce: Skilled in product research and social media management for platforms like Shopify and others.<br><br>For more details about my projects and skills, check out my portfolio<br><br>👉 bartolettiskills.wordpress.com 👈</h3>
+<h3 align="center">🔧 Skills & Tools<br><br>💻 Programming: Experience with website development, C programming, and Shell scripting.<br>🛡️ Cybersecurity: Actively building skills on platforms like Hack The Box to explore advanced concepts.<br>🎨 Creative Tools: Proficient in basic video and photo editing with Adobe software.<br>📈 Marketing & eCommerce: Skilled in product research and social media management for platforms like Shopify and others.<br><br>For more details about my projects and skills, check out my portfolio<br>👉 bartolettiskills.wordpress.com 👈</h3>
 
 ###
 
