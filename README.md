@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">👋 Welcome!<br>Since I was a child, I've been passionate about technology and everything related to it. This enthusiasm guided me through my studies at a Scientific High School specializing in Applied Sciences and Computer Science, where I honed my programming skills and deepened my understanding of the tech world.<br><br>Currently, I am pursuing my studies at 42 School, a peer-to-peer learning environment that emphasizes creativity, problem-solving, and collaboration. Outside of my formal education, I am a curious self-learner who loves diving into topics like Cybersecurity 🛡️ and staying updated on the latest advancements in technology.<br><br>💡 My ultimate goal is to grow continuously, apply my knowledge to solve real-world challenges, and contribute to the innovation shaping our future.</h3>
+<h3 align="center">👋 Welcome!<br><br>Since I was a child, I've been passionate about technology and everything related to it. This enthusiasm guided me through my studies at a Scientific High School specializing in Applied Sciences and Computer Science, where I honed my programming skills and deepened my understanding of the tech world.<br><br>Currently, I am pursuing my studies at 42 School, a peer-to-peer learning environment that emphasizes creativity, problem-solving, and collaboration. Outside of my formal education, I am a curious self-learner who loves diving into topics like Cybersecurity 🛡️ and staying updated on the latest advancements in technology.<br><br>💡 My ultimate goal is to grow continuously, apply my knowledge to solve real-world challenges, and contribute to the innovation shaping our future.</h3>
 
 ###
 
