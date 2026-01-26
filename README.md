@@ -1,6 +1,3 @@
-<h2 align="center">👋 Hi! My name is Filippo Bartoletti and I'm a Software Engineer, from Rome.</h2>
-
-###
 ###
 
 <div align="center">
