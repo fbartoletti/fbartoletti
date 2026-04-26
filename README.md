@@ -20,8 +20,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="openai logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="gemini logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anthropic/191919" height="40" alt="claude logo"  />
